@@ -1,6 +1,6 @@
 # README
 
-## Deep Learning Project 3 - Adversarial Attacks on ResNet-34
+## LoRA-Based-Finetuning-for-Text-Classification
 
 ### Project Overview
 This project implements various adversarial attacks on a pre-trained ResNet-34 model using the ImageNet dataset. The goal is to evaluate the robustness of the model against different perturbation strategies, including FGSM, PGD, Auto-PGD, Patch-PGD, Gaussian Noise, and Jitter attacks.
